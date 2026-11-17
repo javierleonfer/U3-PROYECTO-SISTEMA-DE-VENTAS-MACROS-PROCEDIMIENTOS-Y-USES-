@@ -28,4 +28,3 @@ Elegir Debug y x86.
 Compilar → Recompilar solución.
 Ejecutar con Ctrl + F5.
 
-El programa lee y guarda inventario.txt en la carpeta principal del proyecto. Para empezar de nuevo, copia datos_prueba/inventario_ejemplo.txt sobre inventario.txt.
